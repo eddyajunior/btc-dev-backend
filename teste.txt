@@ -7,3 +7,6 @@ Linha IV
 Linha 5
 
 linha inserida pelo Edson
+Linha 3
+Linha IV -- alterado pelo Gabriel
+Linha 5
