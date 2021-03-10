@@ -2,7 +2,7 @@ Sumário
 
 Linha 1
 Linha II
-Linha 3.a
+Linha 3 -- alterado pelo Gabriel
 Linha IV
 Linha 5
 
